@@ -1,59 +1,58 @@
 html {
-    margin: 0;
-  }
-  
-  nav {
-    text-align: center;
+  margin: 0;
 }
 
-.home{
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-    margin: 10px;
-    text-align: center;
-    font-size: 30px
+nav {
+  text-align: center;
 }
 
-  span {
-    display: block;
-  }
-  .canvas {
-    margin: 100px auto 100px;
-    width: 80%;
-    text-align: center;
-  }
-  
-  .button {
-    width: 50px;
-    height: 50px;
-    border: solid black 2px;
-    display: inline-block;
-  }
-  
-  #grey {
-    background: grey;
-  }
-  
-  #white {
-    background: white;
-  }
-  #blue {
-    background: blue;
-  }
-  #yellow {
-    background: yellow;
-  }
-  #red {
-    background: red;
-  }
-  #black{
-    background: black;
-  }
-  #pink{
-    background: pink;
-  }
-  #purple{
-    background: purple;
-  }
-  
+.home {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  margin: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
+#red {
+  background: red;
+}
+#black {
+  background: black;
+}
+#pink {
+  background: pink;
+}
+#purple {
+  background: purple;
+}
