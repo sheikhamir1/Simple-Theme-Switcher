@@ -14,6 +14,7 @@ const all = [
 ];
 
 // console.log(all);
+
 btn.forEach((item) => {
   item.addEventListener("click", (e) => {
     if (e.target.id === "grey") {
