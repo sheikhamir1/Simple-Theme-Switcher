@@ -15,3 +15,6 @@ Accessibility: The application prioritizes accessibility by ensuring that color 
 Simplicity and Efficiency: "Simple-Theme-Switcher" focuses on providing a streamlined and efficient user experience. It eliminates unnecessary complexity and distractions, allowing users to quickly and effortlessly customize their interface with minimal effort.
 
 Overall, "Simple-Theme-Switcher" offers a user-friendly solution for customizing the visual appearance of the interface. Its simplicity, real-time updates, and accessibility features contribute to an enjoyable and personalized user experience.
+
+
+![theme_switcher](https://github.com/sheikhamir1/Simple-Theme-Switcher/assets/142705849/538d2e4b-0a5a-4b73-b45a-079c94e76cb6)
